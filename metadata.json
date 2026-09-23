@@ -1,0 +1,6 @@
+{
+  "name": "Student Registration Portal",
+  "description": "Samrat Ashok Technological Institute student registration system with real-time validation, live ID card preview, admissions directory, and printable slips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
